@@ -141,7 +141,13 @@ routes to URL:   http://localhost:4000/products/electronics   sau orce category!
                  
 
 
-  ########################
+  ######################## data.js export ############
+
+  schimbarea --watch db.json to --watch data.js
+
+  prin acest code data.js produsele de la url:  http://localhost:3000/products    apare 1000 de produse
+
+
 
 
 
