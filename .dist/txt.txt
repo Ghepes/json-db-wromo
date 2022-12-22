@@ -141,11 +141,11 @@ routes to URL:   http://localhost:4000/products/electronics   sau orce category!
                  
 
 
-  ######################## data.js export ############
+  ######################## data.js export  RENDOM DATA ############
 
   schimbarea --watch db.json to --watch data.js
 
-  prin acest code data.js produsele de la url:  http://localhost:3000/products    apare 1000 de produse
+  prin acest code data.js produsele de la url:  http://localhost:3000/products    apare 1000 de produse (se numeste Rendom data ... mai multe pachete care ajuta la Rendom DATA exista la:  Marak/Faker.js   boolen/casual  sau chancejs/chancejs  auf github.com )
 
 
 
