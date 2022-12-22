@@ -43,13 +43,19 @@
         {
         "id": 2,
         "rating": 4,
-        "comment": "Review 2 for product id 1",
+        "comment": "Review 2 for product id 2",
         "productId": 1
         },
         {
         "id": 3,
         "rating": 4,
-        "comment": "Review 3 for product id 1",
+        "comment": "Review 3 for product id 3",
+        "productId": 1
+        },
+        {
+        "id": 4,
+        "rating": 5,
+        "comment": "Review 4 for product id 4",
         "productId": 1
         }
     ]

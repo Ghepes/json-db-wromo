@@ -34,3 +34,4 @@ http://localhost:3000/products/1?_embed=reviews
 http://localhost:3000/reviews?_expand=product
 
 http://localhost:3000/reviews/2?_expand=product
+
