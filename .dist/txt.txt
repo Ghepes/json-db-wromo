@@ -28,3 +28,8 @@ http://localhost:3000/products?q=in
 # Review product link:
 
 http://localhost:3000/products?_embed=reviews
+
+http://localhost:3000/products/1?_embed=reviews
+
+http://localhost:3000/reviews?_expand=product
+
