@@ -95,5 +95,17 @@ all wird Loschen,
 SEND
 
 
+#####################PORT##############
+alte seteri:  PORT se poate schimba direct din "TEST" code ... ex.:
+
+
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "serve-json": "json-server --watch db.json --port 4000"
+  },
+
+  #######################################
+
+
 
 
