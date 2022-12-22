@@ -106,6 +106,28 @@ alte seteri:  PORT se poate schimba direct din "TEST" code ... ex.:
 
   #######################################
 
+  ########## ROUTERS  SETING###############
+
+
+  add file : routes.json
+
+
+    "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "serve-json": "json-server --watch db.json --port 4000 --routes routes.json"
+  },
+
+  run comand:   yarn serve-json
+
+
+  to URL:  http://localhost:4000/api/v1/products
+
+  pagina produse a fost adaugata la URL mi sus prin file routes.json comand si comanda adaugata in scripts "serve-json" --routes routes.json din package.json
+
+
+  ########################
+
+
 
 
 
