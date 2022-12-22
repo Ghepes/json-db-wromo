@@ -84,5 +84,16 @@ ca exemplu:
 end send PATCH
 
 
+# ex.  DELETE
+
+URL al products 
+
+in "raw"  keine data
+
+all wird Loschen,
+
+SEND
+
+
 
 
