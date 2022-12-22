@@ -15,3 +15,7 @@ http://localhost:3000/products?_sort=price&_order=desc
 http://localhost:3000/products?_sort=price,category&_order=desc,asc
 
 http://localhost:3000/products?price_gte=2000&price_lte=3000
+
+http://localhost:3000/products?id_ne=1
+
+http://localhost:3000/products?category_like=^f
