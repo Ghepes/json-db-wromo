@@ -67,7 +67,8 @@ SEND
 
 PUT   : change product atribut :
 
-only schimba denumirea category sau etc.
+# only schimba denumirea category sau etc.
+si in special URL  http://localhost:3000/products/13
 
 SEND
 

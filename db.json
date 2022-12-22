@@ -44,6 +44,13 @@
       "category": "beauty",
       "price": 1600,
       "description": "This is description about product 12"
+    },
+    {
+      "id": 13,
+      "title": "Product best BBBBBB 13",
+      "category": "beauty",
+      "price": 1700,
+      "description": "This is description about product best BBB 13"
     }
   ],
   "reviews": [
