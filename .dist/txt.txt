@@ -72,7 +72,16 @@ si in special URL  http://localhost:3000/products/13
 
 SEND
 
+# PATCH
+ de a schimba in acelas mod ca si PUT .... dar numai o parte din Cod
 
+ca exemplu:
+
+{
+    "prace": 8000
+}
+
+end send PATCH
 
 
 
