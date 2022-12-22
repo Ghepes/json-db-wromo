@@ -124,6 +124,22 @@ alte seteri:  PORT se poate schimba direct din "TEST" code ... ex.:
 
   pagina produse a fost adaugata la URL mi sus prin file routes.json comand si comanda adaugata in scripts "serve-json" --routes routes.json din package.json
 
+  ####category route
+
+  un alt ex.:
+  adauga in routes.json
+
+
+  {
+    "/api/v1/*": "/$1"
+    "/products/:category": "/products?category=:category"
+}
+
+routes to URL:   http://localhost:4000/products/electronics   sau orce category!
+
+  http://localhost:4000/products/----------||--------------
+                 
+
 
   ########################
 
