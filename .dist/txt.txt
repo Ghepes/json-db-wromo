@@ -1,3 +1,5 @@
+# PRODUCT URL symbolSearchPath:
+
 http://localhost:3000/products?category=make&discount.type=shipping
 
 http://localhost:3000/products?category=make
@@ -19,3 +21,10 @@ http://localhost:3000/products?price_gte=2000&price_lte=3000
 http://localhost:3000/products?id_ne=1
 
 http://localhost:3000/products?category_like=^f
+
+http://localhost:3000/products?q=in
+
+
+# Review product link:
+
+http://localhost:3000/products?_embed=reviews
