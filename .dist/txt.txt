@@ -1,0 +1,11 @@
+http://localhost:3000/products?category=make&discount.type=shipping
+
+http://localhost:3000/products?category=make
+
+http://localhost:3000/products?category=toy
+
+http://localhost:3000/products/2
+
+http://localhost:3000/products
+
+http://localhost:3000/products?_sort=price

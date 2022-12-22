@@ -1,0 +1,26 @@
+{
+  "name": "json-db-wromo",
+  "version": "1.0.0",
+  "description": "json db wromo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "serve-json": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ersin84/json-db-wromo.git"
+  },
+  "keywords": [
+    "wromo-db-json"
+  ],
+  "author": "Ersin84",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ersin84/json-db-wromo/issues"
+  },
+  "homepage": "https://github.com/Ersin84/json-db-wromo#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
