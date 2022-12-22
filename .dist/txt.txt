@@ -35,3 +35,44 @@ http://localhost:3000/reviews?_expand=product
 
 http://localhost:3000/reviews/2?_expand=product
 
+
+
+
+# POSTMAN POST & PUT Product:
+
+image: /img/postman-post-put-re.png
+
+New Request:   
+auf POST URL :
+http://localhost:3000/products
+
+HEADERS:
+KEY        VALUE
+Accept      */*
+User-Agent   http://localhost:3000/
+
+
+Body: raw, auf JSON:
+       {
+        "id": 12,
+        "title": "Product 12",
+        "category": "beauty",
+        "price": 1600,
+        "description": "This is description about product 12"
+       }
+
+SEND
+
+##############
+
+PUT   : change product atribut :
+
+only schimba denumirea category sau etc.
+
+SEND
+
+
+
+
+
+
