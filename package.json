@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ersin84/json-db-wromo.git"
+    "url": "git+https://github.com/Ghepes/json-db-wromo.git"
   },
   "keywords": [
     "wromo-db-json"
   ],
-  "author": "Ersin84",
+  "author": "Ghepes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ersin84/json-db-wromo/issues"
+    "url": "https://github.com/Ghepes/json-db-wromo/issues"
   },
-  "homepage": "https://github.com/Ersin84/json-db-wromo#readme",
+  "homepage": "https://github.com/Ghepes/json-db-wromo#readme",
   "dependencies": {
     "json-server": "^0.17.1"
   }
